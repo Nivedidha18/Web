@@ -20,7 +20,8 @@
   "scripts": {
     "dev": "next dev",
     "start": "next start",
-    "build": "next build && next export"
+    "build": "next build && next export",
+    "deploy": "deploy"
   },
   "eslintConfig": {
     "extends": [

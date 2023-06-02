@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import React from 'react';
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
-import { DiCssdeck } from 'react-icons/di';
+
 import { IoLogoIonic } from 'react-icons/io';
 
 import {
@@ -48,13 +48,13 @@ const Header = () => (
       </li>
     </Div2>
     <Div3>
-      <SocialIcons href='https://github.com'>
+      <SocialIcons href='https://github.com/Nivedidha18'>
         <AiFillGithub size='3rem'></AiFillGithub>
       </SocialIcons>
-      <SocialIcons href='https:/linkedin.com'>
+      <SocialIcons href='https://www.linkedin.com/in/nivedidha-kumaravelu/'>
         <AiFillLinkedin size='3rem'></AiFillLinkedin>
       </SocialIcons>
-      <SocialIcons href='https://instagram.com'>
+      <SocialIcons href='https://instagram.com/nivedidha_kumar'>
         <AiFillInstagram size='3rem'></AiFillInstagram>
       </SocialIcons>
     </Div3>
