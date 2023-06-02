@@ -21,7 +21,8 @@
     "dev": "next dev",
     "start": "next start",
     "build": "next build && next export",
-    "deploy": "deploy"
+    "deploy": "deploy",
+    "export": "next export"
   },
   "eslintConfig": {
     "extends": [
