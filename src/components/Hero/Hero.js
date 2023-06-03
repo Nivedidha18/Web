@@ -24,7 +24,7 @@ const Hero = (props) => (
       </SectionText>
       <Button
         onClick={() =>
-          (window.location = 'https://github.com/Nivedidha18/Profile')
+          (window.location = 'https://nivedidha18.github.io/Profile/')
         }
       >
         Learn more
